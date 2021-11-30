@@ -6,6 +6,7 @@ from time import sleep
 import os
 from ksql import KSQLAPI
 #import pandas
+#test
 
 consumer = KafkaConsumer(
     'vku-test',
