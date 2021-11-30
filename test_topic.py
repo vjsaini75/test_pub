@@ -4,6 +4,7 @@ import csv
 from time import sleep
 import os
 #import pandas
+# test2
 
 consumer = KafkaConsumer(
     'vku-test',
