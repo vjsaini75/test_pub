@@ -29,6 +29,7 @@ client = KSQLAPI('http://192.168.129.120:8088')
 #for item in topics: print(item)
 
 # to look for tables
+#test
 #table = client.ksql('show tables')
 #for item in table: print(item)
 
